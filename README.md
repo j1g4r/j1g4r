@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Jigar Kumar Patel
+# 👋 Hi, I'm Jigarkumar Patel
 
 ### Senior Integration Architect | Retail, Finance & AI Platforms
-📍 Based in Bradbury, NSW, Australia
+📍 Based in Sydney, NSW, Australia
 
 ---
 
