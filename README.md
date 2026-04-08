@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jigarkumar Patel
 
-### Senior Integration Architect | Retail, Finance & AI Platforms
+### Senior Software Engineer | Retail, Finance & AI Platforms
 📍 Based in Sydney, NSW, Australia
 
 ---
