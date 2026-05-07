@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Professional Summary
-I am a **Senior Integration Architect** with over 11+ years of experience specialized in delivering end-to-end integrations for the retail and finance sectors. I am known for reverse-engineering complex systems and designing secure, RBAC-driven internal platforms.
+I am a **Senior software Engineer** with over 11+ years of experience specialized in delivering end-to-end integrations for the retail and finance sectors. I am known for reverse-engineering complex systems and designing secure, RBAC-driven internal platforms.
 
 Currently, I am focused on **AI-enabled platforms**, **multi-agent systems**, and creating reusable integration frameworks to accelerate delivery and boost developer productivity.
 
